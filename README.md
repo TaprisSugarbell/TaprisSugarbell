@@ -21,7 +21,7 @@
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
 ### Statistics
-![Sugarbell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sugarbell)
+![Sugarbell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sugarbell&layout=compact) <!-- Wakatime-->
 
 ![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=tokyonight)
 
