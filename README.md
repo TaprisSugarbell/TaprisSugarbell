@@ -23,7 +23,7 @@
 ### Statistics
 ![Sugarbell's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Sugarbell) <!-- Wakatime -->
 
-![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=tokyonight) <!-- Stats   -- > Theme tokyonight -->
+![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=tokyonight) <!-- Stats Theme tokyonight -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaprisSugarbell) <!-- Top Langs -->
 
