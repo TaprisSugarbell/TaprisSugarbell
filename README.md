@@ -19,7 +19,7 @@
 ![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)
 
 ### Statistics
-![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=cobalt)
+![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=highcontrast)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaprisSugarbell)](https://github.com/anuraghazra/github-readme-stats)
 
