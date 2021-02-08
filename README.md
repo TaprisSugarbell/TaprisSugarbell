@@ -27,3 +27,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaprisSugarbell) <!-- Top Langs -->
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himitsu-Proyect&repo=Codez-Proyect)](https://github.com/Himitsu-Proyect/Codez-Proyect)
