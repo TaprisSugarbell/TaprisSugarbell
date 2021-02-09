@@ -11,7 +11,7 @@
 #### Tools 
 [![](https://img.shields.io/badge/discord-7289da?style=for-the-badge&logo=discord&logoColor=white)](https://github.com/TaprisSugarbell)<!-- Discord -->
 [![](https://img.shields.io/badge/flask-000000?style=for-the-badge&logo=flask&logoColor=white)](https://github.com/TaprisSugarbell) <!-- Flask -->
-[![](https://img.shields.io/badge/microsoftonenote-7719aa?style=for-the-badge&logo=Microsoft&OneNote&logoColor=white)](https://github.com/TaprisSugarbell) <!-- Microsoft OneNote -->
+[![onenote](https://img.shields.io/badge/microsoft-onenote?style=for-the-badge&logo=OneNote&logoColor=white)](https://github.com/TaprisSugarbell) <!-- Microsoft OneNote -->
 [![](https://img.shields.io/badge/telegram-26a5e4?style=for-the-badge&logo=telegram&logoColor=white)](https://github.com/TaprisSugarbell) <!--  -->
 
 #### Learning 
