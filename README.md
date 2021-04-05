@@ -28,6 +28,5 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TaprisSugarbell)](https://github.com/TaprisSugarbell) <!-- Top Langs -->
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=TaprisSugarbell&repo=Bo.py&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/TaprisSugarbell/Bo.py)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Himitsu-Proyect&repo=Codez-Proyect&title_color=fff&icon_color=f9f9f9&text_color=9f9f9f&bg_color=151515)](https://github.com/Himitsu-Proyect/Codez-Proyect) 
 
