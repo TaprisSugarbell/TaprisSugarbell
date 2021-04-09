@@ -21,7 +21,7 @@
 [![](https://img.shields.io/badge/python-3776ab?style=for-the-badge&logo=python&logoColor=white)](https://github.com/TaprisSugarbell) <!-- Python -->
 
 ### Statistics
-[![Sugarbell's wakatime stats](https://github-readme-stats-five-livid.vercel.app/api/wakatime?username=Sugarbell)](https://github.com/TaprisSugarbell) <!-- Wakatime -->
+[![Sugarbell's wakatime stats](https://github-readme-stats-taprissugarbell.vercel.app/api/wakatime?username=Sugarbell)](https://github.com/TaprisSugarbell) <!-- Wakatime -->
 
 [![Sugarbell's GitHub stats](https://github-readme-stats.vercel.app/api?username=TaprisSugarbell&show_icons=true&theme=tokyonight)](https://github.com/TaprisSugarbell) <!-- Stats Theme tokyonight -->
 
